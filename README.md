@@ -43,6 +43,14 @@ Dialogue-vendor : 10042
 Vendors : 10043
 ```
 
+##### Garagiste
+```bash
+Characters : 10050
+Dialogues-welcome : 10051
+Dialogue-vendor : 10052
+Vendors : 10053
+```
+
 
 ## Npc's ID *Illegal*
 
@@ -52,15 +60,4 @@ Characters : 20000
 Dialogues-welcome : 20001
 Dialogue-vendor : 20002
 Vendors : 20003
-```
-
-
-## Npc's ID *Papers*
-
-##### Moniteur
-```bash
-Characters : 30000
-Dialogues-welcome : 30001
-Dialogue-vendor : 30002
-Vendors : 30003
 ```
