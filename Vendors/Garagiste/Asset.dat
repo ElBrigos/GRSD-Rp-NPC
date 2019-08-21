@@ -1,12 +1,11 @@
 Type Vendor
-ID ####4
+ID 1003
 
 
 Selling 2
 
 Selling_0_ID 76
-Selling_0_Cost JE SAIS PAS BLOWTORCH
+Selling_0_Cost 1500
 
 Selling_1_ID 28
-Selling_1_Cost JE SAIS PAS GAS CAN (pas industrial)
-© 2019 GitHub, Inc.
+Selling_1_Cost 500
