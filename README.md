@@ -51,6 +51,14 @@ Dialogue-vendor : 10052
 Vendors : 10053
 ```
 
+##### VTT
+```bash
+Characters : 10060
+Dialogues-welcome : 10061
+Dialogue-vendor : 10062
+Vendors : 10063
+```
+
 
 ## Npc's ID *Illegal*
 
